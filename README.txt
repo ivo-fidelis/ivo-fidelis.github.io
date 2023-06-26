@@ -1,5 +1,3 @@
-# README
-
 Here are the files for my personal portfolio website. 
 I took a template from HTML5 and adapted it to look the way I wanted.
 
